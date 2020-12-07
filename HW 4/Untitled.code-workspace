@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "/Users/ipatel/Documents/Data Structures/HW3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
